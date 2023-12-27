@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293150527929",
+    "project_id": "ia-activity-ff31d",
+    "storage_bucket": "ia-activity-ff31d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293150527929:android:d64b290d740d3b3f46e668",
+        "android_client_info": {
+          "package_name": "com.example.aclivite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5MH8fk8lLTwBg7Ht28WEfj0tprWZ-hOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

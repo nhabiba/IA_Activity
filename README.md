@@ -18,5 +18,5 @@ Ce projet vise à développer une application permettant de proposer et de gére
 - Ouvrez le projet de l'application dans Visual Studio Code.
 - lancé un émulateur Android.
 - Dans Visual Studio Code, ouvrez un terminal .
-- Utilisez la commande suivante pour lancer l'application sur l'émulateur Android : " Flutter run " .
+- Utilisez la commande suivante pour lancer l'application sur l'émulateur Android : " Flutter run ".
 

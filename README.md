@@ -54,6 +54,9 @@ La fonction d'ajout d'activité accessible depuis le profil via la BottomNavigat
 #### Activité de type shopping:
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/2f974027-d939-4aa8-b67b-e68416ebb770)
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/5088a49c-e6e1-4307-8688-bd3078d7cdb7)
+### "Vérification de l'ajout d'activité via Firebase"
+![image](https://github.com/nhabiba/IA_Activity/assets/109957486/34d12a7b-ffab-4a9e-9ca0-c69d5ef4059a)
+
 
 
 

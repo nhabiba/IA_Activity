@@ -38,6 +38,8 @@ La page de détail d'une activité présente une vue exhaustive comprenant une i
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/a5bd795d-b2a2-4c62-8121-9ee34cd7119d)
 ### US_4 : [MVP] Filtrer sur la liste des activités
 La page "Activités" propose une TabBar permettant de filtrer les activités par catégorie, affichant uniquement les activités correspondant à la catégorie sélectionnée lors du clic sur une entrée spécifique.
+![image](https://github.com/nhabiba/IA_Activity/assets/109957486/c40d8ed0-3aeb-4371-881a-a29aec36d5fb)
+
 
 
 

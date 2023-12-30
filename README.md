@@ -12,7 +12,7 @@ Ce projet vise à développer une application permettant de proposer et de gére
 ## Technologies Utilisées
 - Framework : Flutter pour le développement de l'interface utilisateur.
 - Firebase pour la gestion de l'authentification, de la base de données et du stockage.
-- IA pour le traitement des images.
+- Utilisation de l'IA pour la détection d'images .
 ### Lancement de l'Application
 - Ouvrez Visual Studio Code.
 - Ouvrez le projet de l'application dans Visual Studio Code.

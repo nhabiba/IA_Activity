@@ -35,6 +35,8 @@ La page dédiée à la liste des activités offre une présentation visuelle des
 ### US_3 : [MVP] Détail d’une activité
 La page de détail d'une activité présente une vue exhaustive comprenant une image représentative, le titre de l'activité, sa catégorie (comme Sport, Shopping, etc.), le lieu où elle se déroule, le nombre minimum de personnes requis pour sa réalisation, ainsi que le prix associé à cette activité.
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/8e341d35-4ed1-4584-b609-03299b4a5cf3)
+![image](https://github.com/nhabiba/IA_Activity/assets/109957486/a5bd795d-b2a2-4c62-8121-9ee34cd7119d)
+
 
 
 

@@ -47,6 +47,9 @@ La fonctionnalité de profil offre la visualisation et la modification des donn�
 ### US_6 : [IA] Ajouter une nouvelle activité
 La fonction d'ajout d'activité accessible depuis le profil via la BottomNavigationBar présente un formulaire structuré avec des champs pour l'image, le titre, le lieu, le nombre minimum de personnes requis, et le prix. La catégorie est automatiquement définie lors de la sélection de l'image. Un bouton "Valider" permet de sauvegarder ces données nouvellement ajoutées dans la base de données.
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/acdca8c9-23b3-43b7-9bc3-4bcdebed71ca)
+![image](https://github.com/nhabiba/IA_Activity/assets/109957486/1c8dfe9f-f19e-4160-880c-c09a988da627)
+### "Vérification de l'ajout d'activité via Firebase"
+
 
 
 

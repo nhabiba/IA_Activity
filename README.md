@@ -24,6 +24,8 @@ Ce projet vise à développer une application permettant de proposer et de gére
 Une interface de login avec champs pour le nom d'utilisateur et le mot de passe, un bouton de connexion, sécurisant le mot de passe, permettant l'accès à l'application et restant fonctionnelle avec des champs vides.
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/200d3546-fe00-4c53-b866-9a7e0c702645)
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/ccc09758-a271-4507-ac78-4e7767098c29)
+### "Formulaire d'Inscription : Email et Mot de Passe"
+Une interface d'inscription comprenant des champs pour l'email et le mot de passe, avec un bouton d'inscription, permettant à l'utilisateur de créer un compte sécurisé.
 
 
 

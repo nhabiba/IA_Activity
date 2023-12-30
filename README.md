@@ -44,6 +44,9 @@ La page "Activités" propose une TabBar permettant de filtrer les activités par
 La fonctionnalité de profil offre la visualisation et la modification des données utilisateur, incluant le login (en lecture seule), le mot de passe (caché), la date d'anniversaire, l'adresse avec code postal restreint aux chiffres, la ville, avec des boutons pour sauvegarder et se déconnecter.
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/f5c4f6b1-436b-4d16-b663-baba9c5d68b6)
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/ab5be0f5-b196-4aeb-b48c-5ff87645f10c)
+### US_6 : [IA] Ajouter une nouvelle activité
+La fonction d'ajout d'activité accessible depuis le profil via la BottomNavigationBar présente un formulaire structuré avec des champs pour l'image, le titre, le lieu, le nombre minimum de personnes requis, et le prix. La catégorie est automatiquement définie lors de la sélection de l'image. Un bouton "Valider" permet de sauvegarder ces données nouvellement ajoutées dans la base de données.
+
 
 
 

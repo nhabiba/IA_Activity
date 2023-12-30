@@ -19,4 +19,7 @@ Ce projet vise à développer une application permettant de proposer et de gére
 - lancé un émulateur Android.
 - Dans Visual Studio Code, ouvrez un terminal .
 - Utilisez la commande suivante pour lancer l'application sur l'émulateur Android : " Flutter run ".
+## Développement
+### US_1: [MVP] Interface de login
+Une interface de login avec champs pour le nom d'utilisateur et le mot de passe, un bouton de connexion, sécurisant le mot de passe, permettant l'accès à l'application et restant fonctionnelle avec des champs vides.
 

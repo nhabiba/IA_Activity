@@ -29,6 +29,8 @@ Une interface d'inscription comprenant des champs pour l'email et le mot de pass
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/90c5cb6d-0a0d-4da6-aa92-71fbe43982e8)
 ### "Vérification des Informations d'Inscription via Firebase"
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/f7ecbd8c-71b2-4504-805c-1e164c56f2cd)
+### US_2: [MVP] Liste des activités
+La page dédiée à la liste des activités présente une interface où chaque activité est représentée par une image, accompagnée de son titre, du lieu et du prix. Cette vue offre également des boutons dédiés permettant d'afficher en détail les informations spécifiques à chaque activité, ainsi que de supprimer une activité si nécessaire.
 
 
 

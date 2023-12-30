@@ -27,6 +27,7 @@ Une interface de login avec champs pour le nom d'utilisateur et le mot de passe,
 ### "Formulaire d'Inscription : Email et Mot de Passe"
 Une interface d'inscription comprenant des champs pour l'email et le mot de passe, avec un bouton d'inscription, permettant à l'utilisateur de créer un compte sécurisé.
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/90c5cb6d-0a0d-4da6-aa92-71fbe43982e8)
+### "Vérification des Informations d'Inscription via Firebase"
 
 
 

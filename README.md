@@ -59,6 +59,9 @@ La fonction d'ajout d'activité accessible depuis le profil via la BottomNavigat
 ### Cette interface assure que toute suppression d'une activité se traduit automatiquement par la suppression cohérente et immédiate des données associées dans Firebase:
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/64cc03b8-a120-4a75-b557-9133741c3224)
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/989d6c98-2ced-4388-8fc9-354c3e4c64a3)
+### "Vérification de Supprission de toutes les activités via Firebase":
+![image](https://github.com/nhabiba/IA_Activity/assets/109957486/eabe45ad-82ae-432a-a0af-f30c44e03181)
+
 
 
 

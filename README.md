@@ -61,6 +61,7 @@ La fonction d'ajout d'activité accessible depuis le profil via la BottomNavigat
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/989d6c98-2ced-4388-8fc9-354c3e4c64a3)
 ### "Vérification de Supprission de toutes les activités via Firebase":
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/eabe45ad-82ae-432a-a0af-f30c44e03181)
+### Une démonstration en ligne du projet présentant ses fonctionnalités et son interface utilisateur.
 
 
 

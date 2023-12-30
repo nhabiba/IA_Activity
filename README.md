@@ -40,6 +40,9 @@ La page de détail d'une activité présente une vue exhaustive comprenant une i
 La page "Activités" propose une TabBar permettant de filtrer les activités par catégorie, affichant uniquement les activités correspondant à la catégorie sélectionnée lors du clic sur une entrée spécifique.
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/c40d8ed0-3aeb-4371-881a-a29aec36d5fb)
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/2acd1f96-0332-45b8-8c86-7336de7569bb)
+### US_5 : [MVP] Profil utilisateur
+La fonctionnalité de profil offre la visualisation et la modification des données utilisateur, incluant le login (en lecture seule), le mot de passe (caché), la date d'anniversaire, l'adresse avec code postal restreint aux chiffres, la ville, avec des boutons pour sauvegarder et se déconnecter.
+
 
 
 

@@ -32,6 +32,9 @@ Une interface d'inscription comprenant des champs pour l'email et le mot de pass
 ### US_2: [MVP] Liste des activités
 La page dédiée à la liste des activités offre une présentation visuelle des activités avec leurs images, titres, lieux et prix. Elle propose des boutons pour afficher les détails de chaque activité et pour supprimer une activité. De plus, elle inclut un bouton pour se déconnecter et revenir à la page de connexion.
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/035b8d1b-3119-4ecb-adbb-4e49996dd11b)
+### US_3 : [MVP] Détail d’une activité
+La page de détail d'une activité présente une vue exhaustive comprenant une image représentative, le titre de l'activité, sa catégorie (comme Sport, Shopping, etc.), le lieu où elle se déroule, le nombre minimum de personnes requis pour sa réalisation, ainsi que le prix associé à cette activité.
+
 
 
 

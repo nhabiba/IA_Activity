@@ -46,10 +46,14 @@ La fonctionnalité de profil offre la visualisation et la modification des donn�
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/ab5be0f5-b196-4aeb-b48c-5ff87645f10c)
 ### US_6 : [IA] Ajouter une nouvelle activité
 La fonction d'ajout d'activité accessible depuis le profil via la BottomNavigationBar présente un formulaire structuré avec des champs pour l'image, le titre, le lieu, le nombre minimum de personnes requis, et le prix. La catégorie est automatiquement définie lors de la sélection de l'image. Un bouton "Valider" permet de sauvegarder ces données nouvellement ajoutées dans la base de données.
+#### Activité de type sport:
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/acdca8c9-23b3-43b7-9bc3-4bcdebed71ca)
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/1c8dfe9f-f19e-4160-880c-c09a988da627)
 ### "Vérification de l'ajout d'activité via Firebase"
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/71173d1c-0a27-4f80-9f1a-a477f36b10ad)
+#### Activité de type shopping:
+![image](https://github.com/nhabiba/IA_Activity/assets/109957486/2f974027-d939-4aa8-b67b-e68416ebb770)
+
 
 
 

@@ -42,6 +42,7 @@ La page "Activités" propose une TabBar permettant de filtrer les activités par
 ![image](https://github.com/nhabiba/IA_Activity/assets/109957486/2acd1f96-0332-45b8-8c86-7336de7569bb)
 ### US_5 : [MVP] Profil utilisateur
 La fonctionnalité de profil offre la visualisation et la modification des données utilisateur, incluant le login (en lecture seule), le mot de passe (caché), la date d'anniversaire, l'adresse avec code postal restreint aux chiffres, la ville, avec des boutons pour sauvegarder et se déconnecter.
+![image](https://github.com/nhabiba/IA_Activity/assets/109957486/f5c4f6b1-436b-4d16-b663-baba9c5d68b6)
 
 
 
